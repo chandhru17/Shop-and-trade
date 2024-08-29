@@ -142,7 +142,7 @@ python-iso639==2024.2.7
 python-json-logger==2.0.7
 python-magic==0.4.27
 pytz==2023.3.post1
-pywin32==306
+# pywin32==306  # Removed problematic version
 pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==25.1.2
